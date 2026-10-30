@@ -13,7 +13,7 @@ const SITE = {
   /* Smart links, used in rotation: every new smart-link click uses the NEXT link in this list,
      and it never repeats the previous one. Add 5-6 links here. */
   smart: [
-    "https://www.profitableratecpmnetwork.com/ft0366kf?key=a2018bee0d93064ca2101bfb115514f9",
+    "www.example.com",
     "https://www.profitableratecpmnetwork.com/dvezps5nyb?key=86a0dd0eaddaee8723f9390bf11411c3",
     "https://www.profitableratecpmnetwork.com/n0p8fsn198?key=b8670bf4ca8feb3f4a8d5202e2507527",
     "https://www.profitableratecpmnetwork.com/wbkr21v3?key=240e5a544d061b3da5af447e007258a7"
