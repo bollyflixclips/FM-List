@@ -29,9 +29,9 @@
     quietAfterLink: 20000,      // pause after a smart-link tab was opened
 
     top:    { on: true, delay: 100,  cooldownHours: 0, stickyMaxFraction: 0.5, desktop: NATIVE, tablet: B468, mobile: B320 },
-    rails:  { on: true, delay: 2000, cooldownHours: 0, minWidth: 1640, left: B160x300, right: B160x600, rightMinHeight: 720 },
-    center: { on: true, delay: 6000, scrollPct: 20, scrollMinDelay: 1000, ad: B300 },
-    bottom: { on: true, delay: 2000, desktop: B728, tablet: B468, mobile: B320, mobileStartsCollapsed: true }
+    rails:  { on: true, delay: 1000, cooldownHours: 0, minWidth: 1640, left: B160x300, right: B160x600, rightMinHeight: 720 },
+    center: { on: true, delay: 4000, scrollPct: 20, scrollMinDelay: 1500, ad: B300 },
+    bottom: { on: true, delay: 1000, desktop: B728, tablet: B468, mobile: B320, mobileStartsCollapsed: true }
   };
 
   /* ===================== Helpers ===================== */
