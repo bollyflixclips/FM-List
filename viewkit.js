@@ -2,7 +2,7 @@
  * Containers built entirely from JavaScript (markup + styling), tuned per screen size:
  *   top dock (above the navbar, sticky) | side rails (wide screens) | centre modal | bottom dock
  * Link at the end of <body>:  <script src="viewkit.js"></script>
- * Class names are generated at runtime.
+ * Class names are generated at runtime..
  */
 (function () {
   'use strict';
